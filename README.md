@@ -1,4 +1,4 @@
-# High Performance Computing (Semester 8)
+# High Performance Computing (Semester 6)
 
 This repository contains code files and their output screenshots for the practicals performed.
 
@@ -6,48 +6,48 @@ This repository contains code files and their output screenshots for the practic
 
 1. Basic Hello World program using Pthreads
 
-   ![Program 1](/outputScreenshots/1.png)
+   ![Program 1](/prac1/output.png)
 
 2. Run a program to find the sum of all elements of an array using 2 processors
 
-   ![Program 2](/outputScreenshots/2.png)
+   ![Program 2](/prac2/output.png)
 
 3. Compute the sum of all elements of an array using P processors
 
-   ![Program 3](/outputScreenshots/3.png)
+   ![Program 3](/prac3/output.png)
 
 4. Write a program to illustrate basic MPI Communication routines
 
-   ![Program 4](/outputScreenshots/4.png)
+   ![Program 4](/prac4/output.png)
 
 5. Design a parallel program for matrix multiplication
 
-   ![Program 5](/outputScreenshots/5.png)
+   ![Program 5](/prac5/output.png)
 
 6. Write a program with openMP to implement loop work sharing
 
-   ![Program 6](/outputScreenshots/6.png)
+   ![Program 6](/prac6/output.png)
 
 7. Write a program with openMP to implement sections work sharing
 
-   ![Program 7](/outputScreenshots/7.png)
+   ![Program 7](/prac7/output.png)
 
 8. Perform matrix multiplication using OpenMP
 
-   ![Program 8](/outputScreenshots/8.png)
+   ![Program 8](/prac8/output.png)
 
 9. Perform matrix multiplication using Pthreads
 
-   ![Program 9](/outputScreenshots/9.png)
+   ![Program 9](/prac9/output.png)
 
 10. Perform Odd Even Transposition Sort using OpenMP
 
-   ![Program 10](/outputScreenshots/10.png)
+   ![Program 10](/prac10/output.png)
 
 11. Implement fork system call
 
-   ![Program 11](/outputScreenshots/11.png)
+   ![Program 11](/prac11/output.png)
 
 12. Perform Odd Even Transposition Sort using OpenMPI
 
-   ![Program 12](/outputScreenshots/12.png)
+   ![Program 12](/prac12/output.png)
